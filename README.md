@@ -1,5 +1,5 @@
 # First-PHP-login-form
-- Used Xampp for the php to work
+- Used Xampp for the php to work and Sublime Text for Coding
 - Still on the introduction
 
 #Which is which
